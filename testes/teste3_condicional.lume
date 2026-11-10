@@ -1,0 +1,10 @@
+inicio
+numero valor;
+valor = 10;
+se (valor > 5) entao
+    mostrar valor;
+fimse
+se (valor < 5) entao
+    mostrar valor;
+fimse
+fim

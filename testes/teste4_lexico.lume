@@ -1,0 +1,4 @@
+inicio
+numero a;
+a = 2 @ 3;
+fim

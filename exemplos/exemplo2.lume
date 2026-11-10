@@ -1,0 +1,8 @@
+inicio
+numero x;
+numero y;
+x = 2 + 3 * 4;
+y = (2 + 3) * 4;
+mostrar x;
+mostrar y;
+fim

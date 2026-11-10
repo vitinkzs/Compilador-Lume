@@ -1,0 +1,6 @@
+compilador.exe testes\teste1_basico.lume
+compilador.exe testes\teste2_expressao.lume
+compilador.exe testes\teste3_condicional.lume
+compilador.exe testes\teste4_lexico.lume
+compilador.exe testes\teste5_sintatico.lume
+compilador.exe testes\teste6_semantico.lume

@@ -1,0 +1,9 @@
+inicio
+numero a;
+numero b;
+numero resultado;
+a = 7;
+b = 8;
+resultado = a + b;
+mostrar resultado;
+fim
